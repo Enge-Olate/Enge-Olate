@@ -1,7 +1,7 @@
 - 👋 Olá, eu sou @Enge-Olate  
 - 👀 Me interesso por TI
 - 🌱 No momento estou estudando Fronte-End e ADS
-- 💞️ Estou afim de colaborar em projetos de Front-End
+- 💞️ Estou a fim de colaborar em projetos de Front-End
 - 📫 e-mail(marcioalexisolate@live.com)
 
 <!---
