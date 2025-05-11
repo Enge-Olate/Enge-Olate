@@ -37,7 +37,7 @@ Bem-vindo(a) ao meu perfil no GitHub! Aqui você encontra informações sobre mi
 
 ## 📫 Entre em Contato
 - **E-mail**: [marcioalexisolate@live.com](mailto:marcioalexisolate@live.com)
-- **LinkedIn**: linkedin.com/in/márcio-olate-039b072a2
+- **LinkedIn**: [linkedin.com/in/márcio-olate-039b072a2](https://www.linkedin.com/in/m%C3%A1rcio-olate-039b072a2?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BCqixtTgWTOyVtaC6njzQbQ%3D%3D)
 
 ---
 
