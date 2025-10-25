@@ -31,10 +31,13 @@ Aqui estão alguns dos meus projetos em destaque:
 
 ## 🌟 Minhas Habilidades
 - **Linguagens e Ferramentas**:
-  - HTML | CSS | JavaScript
+  - HTML | CSS | JavaScript | React | Sass | Typescript
 
 - **Interesses Profissionais**:
   - Desenvolvimento de Interfaces de Usuário (UI)
+  - Dessenvolvimento de Front-End
+  - Desenvolvimento de Back-End
+  - IoT
   - Criação de Experiências Interativas
 
 ---
