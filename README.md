@@ -44,7 +44,8 @@ Aqui estão alguns dos meus projetos em destaque:
   * **Back-End:** Explorador de arquiteturas de servidor e base de dados.
   * **Full-Stack:** Integração completa de aplicações (ponta a ponta).
   * **IoT:** Criação de soluções inteligentes e conectadas.
-                            ---
+   
+---
 
 ## 📫 Entre em Contato
 - **E-mail**: [marcioalexisolate@live.com](mailto:marcioalexisolate@live.com)
