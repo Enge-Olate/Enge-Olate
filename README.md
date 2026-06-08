@@ -22,13 +22,6 @@ Aqui estão alguns dos meus projetos em destaque:
 
 ---
 
-## 📈 Minhas Estatísticas
-
-![olate's GitHub stats](https://github-readme-stats.vercel.app/api?username=Enge-Olate&hide=contribs,prs&layout=compact&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Enge-Olate&size_weight=0.5&count_weight=0.5&layout=compact&theme=radical)
-
----
 
 ### 🖥️ Tecnologias e ferramentas
 |Categoria | Ferramentas |
